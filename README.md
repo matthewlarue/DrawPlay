@@ -1,1 +1,3 @@
-# C11A-1
+CSCI 306 Section B 
+Matt La Rue and Sam Pearson
+DrawPlay Assignment
